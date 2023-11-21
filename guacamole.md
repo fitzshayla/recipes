@@ -3,4 +3,5 @@
 - lime (0.64)
 - salt (2)
 - tomatoes (1)
+- pepper (2)
 # Instructions
