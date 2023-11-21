@@ -1,3 +1,4 @@
-avocados: $2.00 / each
-limes: $1.00 / each
-salt: $5.00 / box
+# Market A
+- avocados: 1.35 per unit
+- lime: 0.64 per unit
+- salt: 2 per kg
